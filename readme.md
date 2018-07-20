@@ -2,7 +2,7 @@
 
 This app decodes an arbitrary substitution cipher.  A substitution cipher is a cipher that replaces each plaintext character with a ciphertext character according to a fixed permutation of the alphabet.
 
-This app uses a Markov Chain Monte Carlo algorithm and statistics of the English language to learn the ciphering permutation.  A full discussion of the methodology can be found [here](http://mit.edu/bmhuang/www/files/mcmc-decode.pdf).
+This app uses a Markov Chain Monte Carlo algorithm and statistics of the English language to learn the ciphering permutation.  A full discussion of the methodology can be found [here](http://web.mit.edu/bmhuang/www/files/math/mcmc-decode.pdf).
 
 ## Getting Started
 
